@@ -8,12 +8,7 @@ const NavBar = () => {
       <ul>
         <li>
           <NavLink className='link_one' to="/posts">
-            Посты
-          </NavLink>
-        </li>
-        <li>
-          <NavLink className='link_two' to="/login">
-            Вход
+           Posts
           </NavLink>
         </li>
       </ul>
