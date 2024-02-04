@@ -86,10 +86,11 @@ button {
   border-radius: 25px;
 }
 .footer{
-  margin-left: 1200px;
+  margin-left: 604px;
   font-size: 45px;
   color: pink;
   font-style: italic;
+  margin-top: 50px;
 }
 nav{
   background: pink;
@@ -128,4 +129,40 @@ button:focus-visible {
   button {
     background-color: #f9f9f9;
   }
+}
+.create{
+  color: pink;
+  font-style: italic;
+}
+.name{
+  color: pink;
+  font-style: italic;
+}
+.age{
+  color: pink;
+  font-style: italic;
+}
+.send{
+  color: pink;
+  font-style: italic;
+  border: 2px solid pink;
+  border-radius: 25px;
+  margin-top: 10px;
+  margin-left: 20px;
+}
+.input{
+  border: 2px solid pink;
+  border-radius: 25px;
+  margin-top: 10px;
+  margin-left: 20px;
+  height: 30px;
+}
+.text{
+  border: 2px solid pink;
+  border-radius: 25px;
+  margin-top: 10px;
+  margin-left: 20px;
+}
+.main{
+  margin-left: 600px;
 }
